@@ -1,0 +1,258 @@
+#nav_id {
+
+    padding-left: 48px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(214, 238, 238);
+
+}
+
+nav div a {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+
+}
+
+.row {
+
+    margin: 10px;
+
+}
+
+.row div img {
+
+    margin-left: 110px;
+    margin-top: 50px;
+
+}
+
+nav div div {
+
+    margin-left: 500px;
+
+}
+
+nav div ul a {
+
+    font-size: medium;
+
+}
+
+nav div ul li {
+
+    padding-left: 40px;
+
+}
+
+#col1_id {
+
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+
+#col1_id h3 {
+
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#col1_id h1 {
+
+    font-size: 4.4rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#col1_id button {
+
+    background-color: rgb(141, 148, 179);
+    border-radius: 0%;
+    color: white;
+    padding: 15px 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+#col1_id button a {
+
+    text-decoration: none;
+
+}
+
+
+#div_2_id {
+
+    margin-top: 50px;
+    height: 450px;
+
+}
+
+#div_2_id div {
+
+    margin-top: 20px;
+
+}
+
+#div_2_id i {
+
+    font-size: 48px;
+
+}
+
+#div_2_id h3 {
+
+    color: #262626;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.4;
+    letter-spacing: 2px;
+
+}
+
+#div_2_id p {
+
+    color: #262626;
+    font-size: 1.125rem;
+    letter-spacing: 1px;
+
+
+}
+
+.containerh1_class {
+
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+
+.projects_div {
+
+    text-align: center;
+    height: 150px;
+
+}
+
+.projects_div h2 {
+
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.projects_div p {
+
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.2;
+
+}
+
+.projects_explanation img {
+
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin-top: 0px;
+
+}
+
+.projects_explanation button {
+
+    background-color: rgb(141, 148, 179);
+    border-radius: 0%;
+    color: white;
+    padding: 15px 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.projects_explanation div div div {
+
+    padding-left: 110px;
+    line-height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.projects_explanation div div div h2 {
+
+    line-height: 80px;
+
+}
+
+.project_work_div {
+
+    margin-top: 75px;
+    text-align: center;
+    height: 250px;
+    background-color: black;
+    color: white;
+    padding-top: 60px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.project_work_div a {
+
+    color: white;
+
+}
+
+.div_2_col_id {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+.div_2_col_id.animate {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.footer {
+
+    height: 200px;
+
+}
+
+.footer h2 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
+
+#footer_2_div {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+
+}
+
+.footer div p {
+
+    line-height: 80px;
+    text-align: center;
+
+}
+
+.footer_media_logos {
+
+    margin-top: 8px;
+    margin-left: 150px;
+    font-size: large;
+
+}
